@@ -5,7 +5,7 @@ Explore usage of webhooks to keep production up to date
   
 Run Project Locally  
 how you installed docker + dependencies (WSL2, for example)  
-I did this on my Ubuntu  
+I did this on my AWS instance  
 I set up a repository by running the commands listed below  
 ![image](https://user-images.githubusercontent.com/77360294/144364432-bcb5ad71-16bd-4817-aab3-00f8ea4d97a9.png)  
 I installed the engine using the commands below and docker was working  
