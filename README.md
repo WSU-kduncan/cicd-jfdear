@@ -1,3 +1,5 @@
+Part 1  
+  
 Project Overview -   
 Containerize an application with Docker  
 Automate the project pipeline with GitHub Actions  
@@ -11,7 +13,7 @@ I set up a repository by running the commands listed below
 I installed the engine using the commands below and docker was working  
 ![image](https://user-images.githubusercontent.com/77360294/144364512-fff8b1a5-7a14-434f-9ce4-2f0d68ed6040.png)  
 
-Used the httpd dependency to help with running the container(please tell me if this is not supposed to go here)  
+Used the httpd dependency to help with running the container  
 
 how to build the container  
 sudo docker build -t project6:latest .  
@@ -21,3 +23,7 @@ sudo docker run -dit -p 8080:80 project6
 
 how to view the project (open a browser...go to ip and port...)  
 ![how_to_view_project](https://user-images.githubusercontent.com/77360294/144363107-670c234f-25dd-4223-a9bb-0cea287e29e0.PNG)  
+  
+Part 2  
+  
+
