@@ -38,4 +38,11 @@ set secrets and secret names
 ![docker secrets](https://user-images.githubusercontent.com/77360294/145152066-2885341e-f67d-442c-9db5-9553a499b1b6.PNG)  
 
 Configure GitHub Workflow  
+variables to change (repository, etc.)  
+![image](https://user-images.githubusercontent.com/77360294/145269567-46282d5c-eaf6-4f59-bab4-b1e671b8f5b6.png)  
+  
+Showing it worked  
+![image](https://user-images.githubusercontent.com/77360294/145269701-08418e7e-1f5d-4b63-9950-78b6d8651900.png)  
+![image](https://user-images.githubusercontent.com/77360294/145269768-fb4eadee-1b4c-4bfd-a2f5-e9ca15190e5d.png)  
+
 
