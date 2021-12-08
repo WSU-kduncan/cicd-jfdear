@@ -26,4 +26,16 @@ how to view the project (open a browser...go to ip and port...)
   
 Part 2  
   
+Create DockerHub public repo  
+![creating_repo](https://user-images.githubusercontent.com/77360294/145151852-c304c137-3371-4bb2-af74-8bb6dd2b60a4.PNG)  
+
+Allow DockerHub authentication via CLI using Dockhub credentials  
+![CLI_access](https://user-images.githubusercontent.com/77360294/145151918-9845df6b-a115-4558-939a-05a3387932fe.PNG)  
+
+Configure GitHub Secrets  
+What credentials are needed - DOCKER_USERNAME(GitHub username) and DOCKER_PASSWORD(the CLI token)  
+set secrets and secret names  
+![docker secrets](https://user-images.githubusercontent.com/77360294/145152066-2885341e-f67d-442c-9db5-9553a499b1b6.PNG)  
+
+Configure GitHub Workflow  
 
